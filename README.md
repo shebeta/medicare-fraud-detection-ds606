@@ -19,8 +19,8 @@ We aim to build a machine learning model that flags potentially fraudulent healt
 [Healthcare Provider Fraud Detection Analysis – Kaggle](https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis)
 
 ## Status
-- ✅ Project Idea Finalized  
-- 🕐 In Progress: EDA and Feature Engineering  
+-  Project Idea Finalized  
+-  In Progress: EDA and Feature Engineering  
 
 ## Course Info
 DATA 606: Capstone in Data Science (Summer 2025, UMBC)
@@ -29,9 +29,13 @@ DATA 606: Capstone in Data Science (Summer 2025, UMBC)
 =======
 
 
-## 📁 Dataset Access
+##  Dataset Access
 
 Due to GitHub file size limits, the full merged training dataset (`train_full.csv`) is stored on Google Drive:
 
+<<<<<<< HEAD
 🔗 [Download train_full.csv](https://drive.google.com/file/d/1ZQ2lYzb_CzJkfF3DxdKyuXf6_3BNSri9/view?usp=sharing)
 >>>>>>> 83dd78ce695cc1c6821a502d939e70f74b3e4a62
+=======
+[Download train_full.csv](https://drive.google.com/file/d/1ZQ2lYzb_CzJkfF3DxdKyuXf6_3BNSri9/view?usp=sharing)
+>>>>>>> 391aa226a0879e690f043f384c6daf31198adeba
