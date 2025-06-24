@@ -24,4 +24,14 @@ We aim to build a machine learning model that flags potentially fraudulent healt
 
 ## Course Info
 DATA 606: Capstone in Data Science (Summer 2025, UMBC)
+<<<<<<< HEAD
 06/23/25
+=======
+
+
+## 📁 Dataset Access
+
+Due to GitHub file size limits, the full merged training dataset (`train_full.csv`) is stored on Google Drive:
+
+🔗 [Download train_full.csv](https://drive.google.com/file/d/1ZQ2lYzb_CzJkfF3DxdKyuXf6_3BNSri9/view?usp=sharing)
+>>>>>>> 83dd78ce695cc1c6821a502d939e70f74b3e4a62
